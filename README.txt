@@ -7,7 +7,7 @@ for the RESPONDER project including borehole, drill, GPS, meteorological, and la
 - To produce restuls shown in Figure 5, run script 'WAIS_FujitaModel.m'. 
 
 REFERENCE
-Young, T. J. et al. (2021) Rapid and accurate polarimetric radar measurements of ice crystal fabric orientation at the Western Antarctic Ice Sheet ( WAIS ) Divide deep ice core site. The Cryosphere Discussions 1-22. doi:10.5194/tc-2020-264
+Young, T. J. et al. (2021) Rapid and accurate polarimetric radar measurements of ice crystal fabric orientation at the Western Antarctic Ice Sheet ( WAIS ) Divide deep ice core site. The Cryosphere 15(8):4117-4133. doi:10.5194/tc-2020-264
 
 METADATA
 Author: T. J. Young
